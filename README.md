@@ -22,9 +22,11 @@ un poco de informacion sobre las apis y esas cosas para que sepan utilisar las A
 ---
 
 #**Desarrolladores**#
+Toca las imagenes
 
 KG359                                                                                             
 [![KG359](https://files.catbox.moe/kxzwr8.jpeg)](https://github.com/kevinreyes-garcia-rgb)      
 
 𓅨𝘾𝙪𝙚𝙧𝙫𝙞𝙩𝙖𓅨
+
 [![𓅨𝘾𝙪𝙚𝙧𝙫𝙞𝙩𝙖𓅨](https://i.ibb.co/xKyQnmCM/255798638.jpg)](https://github.com/rezemd56-hash)
