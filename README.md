@@ -29,4 +29,4 @@ KG359
 
 𓅨𝘾𝙪𝙚𝙧𝙫𝙞𝙩𝙖𓅨
 
-[![𓅨𝘾𝙪𝙚𝙧𝙫𝙞𝙩𝙖𓅨](https://i.ibb.co/xKyQnmCM/255798638.jpg)](https://github.com/rezemd56-hash)
+[![𓅨𝘾𝙪𝙚𝙧𝙫𝙞𝙩𝙖𓅨]()](https://github.com/rezemd56-hash)
